@@ -18,3 +18,13 @@ Control Surface for Midibox SID devices (Sammich SID, MB6582, etc)
 
 Links:
 * http://www.ucapps.de/index.html?page=midibox_sid.html
+
+### Cynthcart
+
+Control Surface for Cynthcart (also Cynthart on Kerberos)
+
+<img width="421" alt="cynthcart" src="https://user-images.githubusercontent.com/1231708/199666545-e70bf950-85cc-4b4a-8c4e-ee0ef95fc2d9.png">
+
+Links:
+* https://www.qotile.net/cynthcart.html
+* https://frank-buss.de/kerberos/
